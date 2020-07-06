@@ -12,8 +12,8 @@ When I encountered this situation in the previous development process, I often n
 
 ### The project starts at
 
-* [tealeg/xlsx] (https://github.com/tealeg/xlsx) v3.2.0
-* [extrame/xls] (https://github.com/extrame/xls) 6fdb969 8fb5669
+* [tealeg/xlsx](https://github.com/tealeg/xlsx) v3.2.0
+* [extrame/xls](https://github.com/extrame/xls) 6fdb969 8fb5669
 
 ## Version maintenance history
 

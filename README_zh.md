@@ -12,8 +12,8 @@ See the [English Document](https://github.com/FWangZil/xlsxplus/blob/master/READ
 
 ### 项目开始于
 
-* [tealeg/xlsx] (https://github.com/tealeg/xlsx) v3.2.0
-* [extrame/xls] (https://github.com/extrame/xls) 6fdb969 8fb5669
+* [tealeg/xlsx](https://github.com/tealeg/xlsx) v3.2.0
+* [extrame/xls](https://github.com/extrame/xls) 6fdb969 8fb5669
 
 ## 版本维护历史
 
