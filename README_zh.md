@@ -6,9 +6,10 @@
 
 我自己在之前的开发过程中遇到这种情况时经常需要同时写两套业务逻辑分别调用不同的Excel处理库来适配不同的文件格式，这自然就给项目后期的维护引入了过高的复杂度，故而我想能不能基于前辈们的成果试着在简单的一些逻辑下兼容新旧两种格式，于是有了该项目的尝试。
 
-项目开始于
-tealeg/xlsx [https://github.com/tealeg/xlsx]  v3.2.0
-extrame/xls [https://github.com/extrame/xls]  6fdb969 8fb5669
+### 项目开始于
+
+* tealeg/xlsx [https://github.com/tealeg/xlsx] v3.2.0
+* extrame/xls [https://github.com/extrame/xls] 6fdb969 8fb5669
 
 ## 版本维护历史
 
