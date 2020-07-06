@@ -1,4 +1,8 @@
-# xlsxPlus 一个能同时处理xls与xlsx的go扩展库
+# xlsxPlus：一个能同时处理xls与xlsx的go扩展库
+
+## 文档
+
+See the [English Document](https://github.com/FWangZil/xlsxplus/blob/master/README_zh.md) for document in English.
 
 ## 项目介绍
 
@@ -8,8 +12,8 @@
 
 ### 项目开始于
 
-* tealeg/xlsx [https://github.com/tealeg/xlsx] v3.2.0
-* extrame/xls [https://github.com/extrame/xls] 6fdb969 8fb5669
+* [tealeg/xlsx] (https://github.com/tealeg/xlsx) v3.2.0
+* [extrame/xls] (https://github.com/extrame/xls) 6fdb969 8fb5669
 
 ## 版本维护历史
 
