@@ -19,6 +19,9 @@ See the [English Document](https://github.com/FWangZil/xlsxplus/blob/master/READ
 
 ## 功能点
 
+- [ ] 完成两种格式的文件内容读取
+- [ ] 完成两种格式的文件内容修改
+
 ## 注意
 
 本项目不保证生产环境的稳定性，仅仅是一次尝试，本菜鸡能力有限，各位路过的大佬请谨慎引入。

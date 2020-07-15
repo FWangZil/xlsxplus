@@ -17,7 +17,10 @@ When I encountered this situation in the previous development process, I often n
 
 ## Version maintenance history
 
-## function points
+## Function points
+
+- [ ] Complete the file content reading in both formats
+- [ ] Complete file content modification in both formats
 
 ## Note
 
